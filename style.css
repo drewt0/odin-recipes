@@ -1,0 +1,34 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: 800;
+}
+
+.links {
+    text-decoration: none;
+}
+
+.foodimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.fooddesc {
+    font-size: 38px;
+}
+
+.listhead {
+    font-size: 28px;
+}
+
+li {
+    font-size: 20px;
+}
+
